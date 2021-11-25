@@ -4,7 +4,7 @@ using namespace std;
 
 int suma(int a,int b) {
   int c=a;
-  return c-=b;
+  return c+=b;
 }
 
 int main()
