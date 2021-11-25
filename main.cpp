@@ -9,6 +9,6 @@ int suma(int a,int b) {
 
 int main()
 {
-    cout << suma(5,8) << endl;
+    cout << "el valor de la suma es: " << suma(5,8) <<" "<< sizeof(int) << endl;
     return 0;
 }
